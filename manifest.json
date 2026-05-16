@@ -1,0 +1,43 @@
+{
+  "name": "NOOR — Light of Islam",
+  "short_name": "NOOR",
+  "description": "A gentle, offline-ready guide to the basics of Islam — pillars, beliefs, Quran, prayer, and values.",
+  "start_url": "./islam-guide.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0f2419",
+  "background_color": "#0D1F12",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "lifestyle"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Tasbih Counter",
+      "short_name": "Tasbih",
+      "description": "Open the digital Tasbih counter",
+      "url": "./islam-guide.html#tasbih"
+    },
+    {
+      "name": "Five Pillars",
+      "short_name": "Pillars",
+      "description": "Learn the Five Pillars of Islam",
+      "url": "./islam-guide.html#pillars"
+    }
+  ]
+}
